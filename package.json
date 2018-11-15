@@ -1,0 +1,26 @@
+{
+  "name": "graphqlxpro",
+  "version": "1.0.0",
+  "description": "API QueryLang",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevelopersGTTest/GraphQL-Server.git"
+  },
+  "author": "Hackobo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevelopersGTTest/GraphQL-Server/issues"
+  },
+  "homepage": "https://github.com/DevelopersGTTest/GraphQL-Server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2",
+    "nodemon": "^1.18.6"
+  }
+}
